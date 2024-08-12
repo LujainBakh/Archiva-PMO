@@ -1,15 +1,14 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "ProjectInitiation": "1. Project Initiation",
+  "Communication": "2. Communication",
+  "documentation": "3. Documentation",
+  "csr-projects": "4. Corporate Social Responsibility (CSR) Projects",
+  "support-phase": "5. Support Phase",
+  "change-request": "6. Change Requests",
+  "conclusion": "7. Conclusion",
   "about": {
     "title": "About",
     "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
   }
 }
